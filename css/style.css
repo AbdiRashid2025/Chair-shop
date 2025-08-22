@@ -251,3 +251,6 @@ footer {
   border-bottom: 0.35rem solid #087f5b;
   text-align: center;
 }
+footer span {
+  font-weight: bold;
+}
